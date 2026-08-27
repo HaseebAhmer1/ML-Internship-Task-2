@@ -1,10 +1,20 @@
 # ML-Internship-Task-2
-# 📝 Data Preprocessing Report
+# 📝 Airbnb NYC Data Preprocessing Report
 
 ## 🎯 Objective
 The goal was to build a **systematic preprocessing workflow** for the Airbnb NYC dataset.  
 This involved handling missing values, detecting and treating outliers, encoding categorical variables, scaling numerical features, validating data integrity, and exploring feature relationships.  
 Each step was supported by **visualizations** to better understand the dataset’s structure and quality.
+
+---
+
+## 📊 Dataset Information
+
+- **Dataset:** Airbnb NYC Listings
+- **Rows:** 48,895
+- **Columns:** 16
+- **Dataset File:** `NYC.csv`
+- **Main Features:** `price`, `minimum_nights`, `number_of_reviews`, `reviews_per_month`, `room_type`, `neighbourhood_group`, `availability_365`
 
 ---
 
@@ -33,6 +43,19 @@ Each step was supported by **visualizations** to better understand the dataset�
 - **Correlation Heatmap**  
   *Outcome:* Heatmap revealed relationships among numerical features.  
   *Learning:* Strong correlations can cause multicollinearity, requiring feature selection or dimensionality reduction.
+
+---
+
+## 🛠️ Key Skills
+
+- Data Cleaning
+- Missing Value Analysis
+- MCAR/MAR/MNAR Analysis
+- Outlier Detection
+- Data Visualization
+- Feature Scaling
+- Data Validation
+- Correlation Analysis
 
 ---
 

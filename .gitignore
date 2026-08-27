@@ -1,0 +1,10 @@
+DATASETS/raw/
+DATASETS/interim/
+DATASETS/processed/
+*.csv
+*.parquet
+*.pkl
+*.joblib
+__pycache__/
+.ipynb_checkpoints/
+.env
